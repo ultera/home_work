@@ -2,9 +2,10 @@
     margin: 0;
     padding: 0;
 }
+
 body {
-    background: #eeeeee;
     margin-left: 0;
+    background: #eeeeee;
     font-size: 13pt;
 }
 
